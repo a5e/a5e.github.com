@@ -1,0 +1,16 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.11.1//EN
+N:Brisseau;Antoine;;;
+FN:Antoine Brisseau
+EMAIL;type=INTERNET;type=pref:antoinebrisseau@gmail.com
+TEL;type=CELL;type=VOICE;type=pref:0673678197
+item1.URL;type=pref:http://antoinebrisseau.com
+item1.X-ABLabel:_$!<HomePage>!$_
+item2.URL:http://github.com/a5e
+item2.X-ABLabel:github
+item3.URL:http://keybase.io/a5e
+item3.X-ABLabel:keybase
+UID:53d5299b-384f-4dc1-93ad-42b4405b58ed
+X-ABUID:53D5299B-384F-4DC1-93AD-42B4405B58ED:ABPerson
+END:VCARD
